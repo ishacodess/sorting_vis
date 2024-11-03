@@ -2,13 +2,12 @@
 
 p5 Sort is a collection of sorting visualisations made using p5 JS. You can check it out [here](https://frappefortytwo.github.io/p5-Sort/).
 
-Here is a screencap of the project :
 
-![p5-Sort screencap](/README/p5-Sort.gif)
 
-## License
 
-Aven's source code is licensed under GNU GPLv3.
+
+
+
 
 ## Reference
 
